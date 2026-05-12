@@ -1,0 +1,283 @@
+{
+  "name": "Tasty Travels",
+  "domain": "tastytravels.co",
+  "slug": "tastytravels",
+  "genre": "Cooking Merge",
+  "iframeUrl": "/game/index.html",
+  "embedUrl": "https://html5.gamemonetize.co/3i6pble3gza5vq1z1w2bq473qya3m5y6/",
+  "embedSource": "GameMonetize - Merge Cooking Game",
+  "seo": {
+    "title": "Tasty Travels Online - Free Browser Game",
+    "description": "Play Tasty Travels online as a relaxed cooking merge game with no download from this site. Combine ingredients, plan space, and enjoy a quick browser session.",
+    "keywords": [
+      "Tasty Travels",
+      "Tasty Travels online",
+      "Tasty Travels free",
+      "cooking merge",
+      "browser game",
+      "free online game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Tasty Travels Online",
+    "heroSubtitle": "Open Tasty Travels in your browser and start playing through a local game page.",
+    "lede": "Tasty Travels is a food-themed merge game for players who like calm planning, simple controls, and short browser play sessions.",
+    "stats": [
+      {
+        "value": "Quick",
+        "label": "Browser Play"
+      },
+      {
+        "value": "Simple",
+        "label": "Controls"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "Free",
+        "label": "Game Access"
+      }
+    ],
+    "about": {
+      "kicker": "What is Tasty Travels?",
+      "headline": "A cooking merge puzzle built around turning simple ingredients into better dishes.",
+      "paragraph1": "Tasty Travels is a food-themed merge game for players who like calm planning, simple controls, and short browser play sessions.",
+      "paragraph2": "Match and combine food items, keep the board organized, and look ahead before every move. The fun comes from steady planning rather than rushing."
+    },
+    "howToPlay": {
+      "headline": "How to play Tasty Travels",
+      "subheading": "Start with the basics, then improve through cleaner decisions."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Load the local play page and let the cooking board appear in your browser."
+      },
+      {
+        "icon": "eye",
+        "title": "Match Similar Items",
+        "desc": "Drag or tap matching ingredients and dishes to create upgraded recipes."
+      },
+      {
+        "icon": "zap",
+        "title": "Manage Your Space",
+        "desc": "Keep open spots available so new ingredients do not block your next merge."
+      },
+      {
+        "icon": "target",
+        "title": "Serve Better Dishes",
+        "desc": "Build higher-value food combinations by planning two or three moves ahead."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Reset and Improve",
+        "desc": "Try again with a cleaner board and a better route through the recipe chain."
+      }
+    ],
+    "categories": [
+      {
+        "name": "Ingredients",
+        "icon": "utensils",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Recipes",
+        "icon": "puzzle",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Board Space",
+        "icon": "grid",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Planning",
+        "icon": "target",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Progress",
+        "icon": "check-circle",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Start from the play page without downloading an app from this site."
+      },
+      {
+        "icon": "utensils",
+        "title": "Food Merge Loop",
+        "desc": "Combine simple ingredients into fuller dishes through clear, repeatable actions."
+      },
+      {
+        "icon": "target",
+        "title": "Planning Matters",
+        "desc": "Good board spacing helps you keep useful matches available."
+      },
+      {
+        "icon": "device",
+        "title": "Desktop and Mobile Friendly",
+        "desc": "The embedded game is designed for modern browsers with mouse or touch input."
+      },
+      {
+        "icon": "shield",
+        "title": "General Audience Copy",
+        "desc": "The page avoids reward claims, gambling language, and misleading app-store promises."
+      },
+      {
+        "icon": "refresh",
+        "title": "Quick Sessions",
+        "desc": "Play for a few minutes, reset, and improve your merge strategy."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Tasty Travels?",
+        "a": "Tasty Travels is a browser cooking merge game where you combine food items and plan board space."
+      },
+      {
+        "q": "Is Tasty Travels free to play?",
+        "a": "Yes, the embedded browser game can be opened from this site without a purchase prompt from the page."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. The game loads through a local browser route that embeds the external playable version."
+      },
+      {
+        "q": "What is the main strategy?",
+        "a": "Keep space open, merge smaller items early, and avoid filling the board with pieces that do not connect."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The embedded game is mobile-ready, though landscape view may feel more comfortable on smaller screens."
+      },
+      {
+        "q": "Is this an official mobile app page?",
+        "a": "No. This is an independent browser play page with practical gameplay information."
+      }
+    ],
+    "cta": {
+      "headline": "Ready to play Tasty Travels?",
+      "subtext": "Open the browser game page and start a quick session."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Load the local play page and let the cooking board appear in your browser."
+      },
+      {
+        "title": "Match Similar Items",
+        "desc": "Drag or tap matching ingredients and dishes to create upgraded recipes."
+      },
+      {
+        "title": "Serve Better Dishes",
+        "desc": "Build higher-value food combinations by planning two or three moves ahead."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is Tasty Travels?",
+        "a": "Tasty Travels is a browser cooking merge game where you combine food items and plan board space."
+      },
+      {
+        "q": "Is Tasty Travels free to play?",
+        "a": "Yes, the embedded browser game can be opened from this site without a purchase prompt from the page."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. The game loads through a local browser route that embeds the external playable version."
+      },
+      {
+        "q": "What is the main strategy?",
+        "a": "Keep space open, merge smaller items early, and avoid filling the board with pieces that do not connect."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The embedded game is mobile-ready, though landscape view may feel more comfortable on smaller screens."
+      },
+      {
+        "q": "Is this an official mobile app page?",
+        "a": "No. This is an independent browser play page with practical gameplay information."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Tasty Travels is easiest to enjoy when you learn the main loop first and then focus on better timing and cleaner choices.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Load the local play page and let the cooking board appear in your browser."
+      },
+      {
+        "title": "Match Similar Items",
+        "desc": "Drag or tap matching ingredients and dishes to create upgraded recipes."
+      },
+      {
+        "title": "Manage Your Space",
+        "desc": "Keep open spots available so new ingredients do not block your next merge."
+      },
+      {
+        "title": "Serve Better Dishes",
+        "desc": "Build higher-value food combinations by planning two or three moves ahead."
+      },
+      {
+        "title": "Reset and Improve",
+        "desc": "Try again with a cleaner board and a better route through the recipe chain."
+      }
+    ],
+    "mechanic": "Match and combine food items, keep the board organized, and look ahead before every move. The fun comes from steady planning rather than rushing.",
+    "difficultyProgression": "Early play is about learning the controls. Later sessions reward patience, planning, and avoiding rushed decisions.",
+    "tips": [
+      "Keep at least one open space before making a risky merge.",
+      "Group similar food items near each other so chains are easier to spot.",
+      "Do not chase every small match if it blocks a stronger recipe path.",
+      "Reset after a messy board and use the next run to plan cleaner merges."
+    ]
+  },
+  "blog": {
+    "headline": "Tasty Travels Tips and Browser Play Guide",
+    "subheading": "Practical notes for smoother sessions.",
+    "introParagraph": "This guide keeps Tasty Travels simple: learn the controls, understand the main objective, and improve one decision at a time.",
+    "posts": [
+      {
+        "title": "How to start Tasty Travels without overthinking it",
+        "excerpt": "Focus on the first few actions, learn what changes after each move, and keep the session relaxed.",
+        "date": "2026-05-12",
+        "readTime": "3 min read"
+      },
+      {
+        "title": "Common Tasty Travels mistakes to avoid",
+        "excerpt": "Most early mistakes come from rushing. Slow down, look at the next option, and make the board or field easier to read.",
+        "date": "2026-05-12",
+        "readTime": "4 min read"
+      },
+      {
+        "title": "Why short browser sessions work well for Tasty Travels",
+        "excerpt": "A quick session is enough to learn one pattern, test one upgrade order, or improve one match habit.",
+        "date": "2026-05-12",
+        "readTime": "3 min read"
+      }
+    ]
+  }
+}
