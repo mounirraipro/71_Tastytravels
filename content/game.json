@@ -261,22 +261,31 @@
     "introParagraph": "This guide keeps Tasty Travels simple: learn the controls, understand the main objective, and improve one decision at a time.",
     "posts": [
       {
+        "slug": "getting-started",
         "title": "How to start Tasty Travels without overthinking it",
         "excerpt": "Focus on the first few actions, learn what changes after each move, and keep the session relaxed.",
+        "category": "Guide",
         "date": "2026-05-12",
-        "readTime": "3 min read"
+        "readTime": "3 min read",
+        "icon": "guide"
       },
       {
+        "slug": "common-mistakes",
         "title": "Common Tasty Travels mistakes to avoid",
         "excerpt": "Most early mistakes come from rushing. Slow down, look at the next option, and make the board or field easier to read.",
+        "category": "Tips",
         "date": "2026-05-12",
-        "readTime": "4 min read"
+        "readTime": "4 min read",
+        "icon": "tips"
       },
       {
+        "slug": "short-browser-sessions",
         "title": "Why short browser sessions work well for Tasty Travels",
         "excerpt": "A quick session is enough to learn one pattern, test one upgrade order, or improve one match habit.",
+        "category": "Play",
         "date": "2026-05-12",
-        "readTime": "3 min read"
+        "readTime": "3 min read",
+        "icon": "clock"
       }
     ]
   }

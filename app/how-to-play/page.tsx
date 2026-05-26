@@ -13,6 +13,13 @@ export const metadata: Metadata = {
 };
 
 export default function HowToPlayPage() {
+  const mechanic = typeof htp.mechanic === 'string'
+    ? { title: 'Core Mechanic', desc: htp.mechanic }
+    : htp.mechanic;
+  const tips = htp.tips.map((tip, i) => (
+    typeof tip === 'string' ? { title: `Tip ${i + 1}`, desc: tip } : tip
+  ));
+
   return (
     <>
       <div className="page-header">
@@ -35,15 +42,15 @@ export default function HowToPlayPage() {
 
         <AdSlot type="in-content" />
 
-        <h2>{htp.mechanic.title}</h2>
-        <p>{htp.mechanic.desc}</p>
+        <h2>{mechanic.title}</h2>
+        <p>{mechanic.desc}</p>
 
         <h2>Difficulty Progression</h2>
         <p>{htp.difficultyProgression}</p>
 
         <h2>Tips &amp; Strategies</h2>
         <ul>
-          {htp.tips.map((tip) => (
+          {tips.map((tip) => (
             <li key={tip.title}>
               <strong>{tip.title}:</strong> {tip.desc}
             </li>

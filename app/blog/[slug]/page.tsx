@@ -38,6 +38,9 @@ export default async function BlogPostPage(
   if (!post) notFound();
 
   const related = gameContent.blog.posts.filter((p) => p.slug !== slug).slice(0, 3);
+  const sections = post.sections?.length
+    ? post.sections
+    : [{ heading: post.title, paragraphs: [post.excerpt] }];
 
   return (
     <>
@@ -58,7 +61,7 @@ export default async function BlogPostPage(
       <div className="page-content">
         <AdSlot type="banner" />
 
-        {post.sections.map((section, i) => (
+        {sections.map((section, i) => (
           <div key={i}>
             {section.heading && <h2>{section.heading}</h2>}
             {section.paragraphs.map((p, j) => (
